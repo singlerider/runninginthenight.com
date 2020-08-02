@@ -1,2 +1,3 @@
 #!/usr/bin/env sh
-bundle exec jekyll serve
+bundle exec jekyll serve --incremental --watch --drafts
+
