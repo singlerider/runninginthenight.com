@@ -45,6 +45,8 @@ GEM
       sassc (> 2.0.1, < 3.0)
     jekyll-seo-tag (2.6.1)
       jekyll (>= 3.3, < 5.0)
+    jekyll-sitemap (1.4.0)
+      jekyll (>= 3.7, < 5.0)
     jekyll-theme-console (0.3.10)
       jekyll (>= 3.5)
       jekyll-seo-tag
@@ -91,6 +93,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll-feed (~> 0.12)
+  jekyll-sitemap
   jekyll-theme-console
   jemoji
   tzinfo (~> 1.2)

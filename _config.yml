@@ -33,6 +33,7 @@ theme: jekyll-theme-console
 plugins:
   - jekyll-feed
   - jemoji
+  - jekyll-sitemap
 
 # Jemoji local emoji
 emoji:
