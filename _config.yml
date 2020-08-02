@@ -21,15 +21,15 @@
 title: Running In the Night
 email: contact@runninginthenight.com
 footer: >- # this means to ignore newlines until "baseurl:"
-  A hacker-oriented sailing journey, updated as projects get completed.
+  A hacker-oriented sailing journey on an Ericson 36C, updated periodically. contact@runninginthenight.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.runninginthenight.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  singlerider
 
 # Build settings
-theme: jekyll-theme-console
 remote_theme: b2a3e8/jekyll-theme-console
+theme: jekyll-theme-console
 plugins:
   - jekyll-feed
   - jemoji
