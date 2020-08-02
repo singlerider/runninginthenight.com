@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-# About
+# Vessel
 
 Sailing Vessel OutRun is a 1976 Ericson 36C.
 
@@ -21,3 +21,10 @@ Burgundy, Cream, White
 ## LWL
 
 30 ft (9 m)
+
+
+# Sailor
+
+Shane Engelman
+
+![Shane Engelman at top of mast](/assets/images/base/shane-at-top-of-mast-2020.jpg)
