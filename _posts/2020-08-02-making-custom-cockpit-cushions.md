@@ -40,6 +40,8 @@ Imagine what it would cost to have someone else make them!
 
 I used a __Singer Heavy Duty 4423__ with a walking foot to do the sewing.
 
+[![Singer 4423](/assets/images/cockpit-cushions/singer-4423.jpg)](https://photos.app.goo.gl/HzZHfC4rARTyaCsJ8)
+
 # Measuring
 
 I followed [a Sailrite tuorial on making your own cockpit cushions](https://www.sailrite.com/How-to-Make-Cockpit-Cushions-Box-Cushions-Video). Wouldn't it be nice to have a cockpit with such square sides?
@@ -102,6 +104,6 @@ I'm very proud of how they turned out. It really adds to a bare cockpit with old
 
 This whole construction process took me a week, where I was on paid-time-off from work in isolation during the early days of COVID-19. It was big effort, but everyone that sees them compliments on how well they turned out, and I'd have to agree. The cushions pictured directly above weren't properly rotated in the photos, but I promise they fit just fine.
 
-They also double as flotation devices. Closed-cell foam is buouyant, firm, and. You can never have too many emergency life rafts, and making them look good makes that much sweeter.
+They also double as flotation devices. Closed-cell foam is buouyant, firm, and you can never have too many emergency life rafts, and making them look good makes that much sweeter.
 
 Please ignore the clutter in the photos. [OutRun](/about/) is only 36-feet long and I have many projects always happening concurrently.
