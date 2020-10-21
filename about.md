@@ -8,7 +8,7 @@ permalink: /about/
 
 Sailing Vessel OutRun is a 1976 Ericson 36C.
 
-![Outrun Wide](/assets/images/base/outrun-wide.jpg)
+[![Outrun Wide](/assets/images/base/outrun-wide.jpg)](https://photos.app.goo.gl/3UX183zkAqHaRRVi6)
 
 ## Color
 
