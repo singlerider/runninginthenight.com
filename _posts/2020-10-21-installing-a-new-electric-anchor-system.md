@@ -171,9 +171,13 @@ Putting the anchor onto its final pedestal is a good feeling. It looks strong en
 
 [![Anchor System Complete 3](/assets/images/anchor-windlass-installation/anchor-system-complete-3.jpg)](https://photos.app.goo.gl/wbNnioXC3v7HWEbd7)
 
+## Scenery
+
 I had to swap out my wind instrument as it had stopped working. While I was up there, I looked down to see this epic scene:
 
 [![Top-Down From Mast](/assets/images/base/top-down-from-mast.jpg)](https://photos.app.goo.gl/NAw5Zcy6RqigjdZa7)
+
+## Testing
 
 Single-button operation is a really great feature. I don't have to run up to the foredeck to lower or raise the anchor. The scenario I imagine is what if my sails are destroyed (or my mast is down) and my engine fails? I don't want a complicated process to drop the anchor in such an emergency.
 
@@ -194,6 +198,8 @@ After dropping the Mantus and plenty of scope, I put some rolling hitches on the
 It was a bit unnerving, having spent a lot of money and time on something I wasn't *absolutely sure* would work. But, using a range of my pulpit and some distant trees over about a minute, there was no movement. We were locked into the mud.
 
 [![Anchoring In Clipper Cove 2](/assets/images/anchor-windlass-installation/anchoring-in-clipper-cove-2.jpg)](https://photos.app.goo.gl/W3y5jTpgN3ALuEws7)
+
+## Lunch
 
 Success! Time for lunch.
 
