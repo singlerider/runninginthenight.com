@@ -93,6 +93,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll-feed (~> 0.12)
+  jekyll-seo-tag
   jekyll-sitemap
   jekyll-theme-console
   jemoji
