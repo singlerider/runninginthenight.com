@@ -39,5 +39,7 @@ if __name__ == "__main__":
     if len(sys.argv) > 2:
         image_max_dimension = int(sys.argv[2])
     for image_filepath in os.listdir(image_directory_path):
+        if ".DS_Store" in image_filepath:
+            continue
         full_image_path = os.path.join(image_directory_path, image_filepath)
         convert_image(full_image_path, image_max_dimension=image_max_dimension)
