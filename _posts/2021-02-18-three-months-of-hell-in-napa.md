@@ -117,7 +117,7 @@ There was a steel pin affixing the turnbuckle rigging to the chainplates. This p
 
 [![Chainplates 1](/assets/images/napa-bottom-job/chainplates-1.jpg)](https://photos.app.goo.gl/h9nerxqrZjyCtCk99)
 
-More bad news. Galvanic corrosion strikes again. The steel had corroded directly into the less-noble (unweldable) aluminum. After hammering the pins out over th course of one hour, flakes of irrecoverable metal surround the chainplate cap.
+More bad news. Galvanic corrosion strikes again. The steel had corroded directly into the less-noble (unweldable) aluminum. After hammering the pins out over the course of one hour, flakes of irrecoverable metal surround the chainplate cap.
 
 [![Chainplates 2](/assets/images/napa-bottom-job/chainplates-2.jpg)](https://photos.app.goo.gl/byknbSjKvzdCUuy89)
 
@@ -585,7 +585,7 @@ This is definitely where some people get upset with me. I had a bunch of spare s
 
 [![Through Hulls 4](/assets/images/napa-bottom-job/through-hulls-4.jpg)](https://photos.app.goo.gl/EacrhRkQfaSSCr1x7)
 
-All of my new through-hulls, lined up and ready to be insalled. The goal was to install all seven in one day.
+All of my new through-hulls, lined up and ready to be installed. The goal was to install all seven in one day.
 
 [![Through Hulls 5](/assets/images/napa-bottom-job/through-hulls-5.jpg)](https://photos.app.goo.gl/mrL5FzAq9mgnsdnt7)
 
