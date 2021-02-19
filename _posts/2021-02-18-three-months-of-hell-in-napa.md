@@ -390,7 +390,7 @@ The damage appears to be more severe the lower below the water you go. Perhaps g
 
 ## A Mostly Even Keel
 
-The fiberglass patches helped, but there were still a great many divots in the glass that hed to be filled in. Coppercoat shouldn't be applied over an active minefield.
+The fiberglass patches helped, but there were still a great many divots in the glass that had to be filled in. Coppercoat shouldn't be applied over an active minefield.
 
 [![Totalfair 1](/assets/images/napa-bottom-job/totalfair-1.jpg)](https://photos.app.goo.gl/72jRczQSpmKMXTNd9)
 
@@ -573,7 +573,7 @@ This was my first time installing through-hulls. Given all the other changes I'v
 
 [![Through Hulls 2](/assets/images/napa-bottom-job/through-hulls-2.jpg)](https://photos.app.goo.gl/T3xgri2qWvnu7G668)
 
-And here I am drilling a 1" 1/2 hole in the bottom of a completed Coppercoat bottom job for a new transducer. This is not something you want to mess up.
+And here I am drilling a 2" hole in the bottom of a completed Coppercoat bottom job for a new transducer. This is not something you want to mess up.
 
 [![Core Sample](/assets/images/napa-bottom-job/core-sample.jpg)](https://photos.app.goo.gl/4cdyFhd2xSJmEHHz5)
 
@@ -647,4 +647,4 @@ The clouds are starting to break for me; things are calming down, and everything
 
 # Special Thanks
 
-Ichiro, Dustin, Charlotte, Ibrahim, Brent, Andy, Leah, Charles, Seth, Ruth, Garrett, Joel, Emma, Linh, Teal, Jane, and Bob, and Stephen.
+Ichiro, Dustin, Charlotte, Ibrahim, Brent, Andy, Leah, Charles, Seth, Ruth, Garrett, Joel, Emma, Linh, Teal, Jane, Bob, and Stephen.
