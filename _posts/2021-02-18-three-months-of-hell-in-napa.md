@@ -1,10 +1,9 @@
 ---
 layout: post
 title:  "Three Months of Hell in Napa"
-date:   2021-02-01 16:00:00 -0700
+date:   2021-02-18 18:00:00 -0700
 categories: coppercoat haulout bottom topsides paint
 ---
-
 
 # Abstract
 
