@@ -28,9 +28,11 @@ def convert_image(image_path, image_max_dimension=500):
         aspect_ratio = height / width
         new_height = image_max_dimension
         new_width = new_height / aspect_ratio
-    image = image.resize((int(new_width), int(new_height)), Image.ANTIALIAS)
+    resized_image = image.resize((int(new_width), int(new_height)), Image.ANTIALIAS)
     output_filename = image_path
-    image.save(output_filename)
+    if image.size != resized_image.size:
+        resized_image.save(output_filename)
+        print("Resized", image_path, resized_image.size[0], resized_image.size[1])
 
 
 if __name__ == "__main__":
@@ -41,5 +43,10 @@ if __name__ == "__main__":
     for image_filepath in os.listdir(image_directory_path):
         if ".DS_Store" in image_filepath:
             continue
+        if os.path.splitext(image_filepath)[-1] != ".jpg":
+            continue
         full_image_path = os.path.join(image_directory_path, image_filepath)
-        convert_image(full_image_path, image_max_dimension=image_max_dimension)
+        try:
+            convert_image(full_image_path, image_max_dimension=image_max_dimension)
+        except OSError as error:
+            print(error)
