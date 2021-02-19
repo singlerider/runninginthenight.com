@@ -332,7 +332,7 @@ Take note that I did leave a fire extinguisher out front, just in case.
 
 [![Flamethrower 2](/assets/images/napa-bottom-job/flamethrower-2.jpg)](https://photos.app.goo.gl/pf6e9KdM7x9AvFsF7)
 
-Propane was getting expensive and a fellow neighbor gave me this diesel flamethrower for free. It seemed much safer. Diesel is flammable at ambient air pressure, as opposed to combustible like propane gas. This model also had an automatic shutoff that was able to be set to a specific temperature, with an electric auto-ignite. I used this for an additional four days to bring the moisture numbers down further.
+Propane was getting expensive and a fellow neighbor gave me this diesel flamethrower for free. It seemed much safer. Diesel is flammable at ambient air pressure, as opposed to combustible like propane gas. This model also had an automatic shutoff that was able to be set to a specific temperature, with an electric auto-ignite. I used this for an additional four days to bring the moisture numbers down further... and it worked. My "average" moisture readings are now at a nearly constant __<span style="color:#AAFF00;">15%</span>__!!!!!
 
 # High and Dry
 
