@@ -5,6 +5,9 @@ date:   2020-10-21 10:00:00 -0700
 categories: foredeck anchor windlass
 ---
 
+Installing a New Electric Anchor System
+=======================================
+
 # Preface
 
 I wanted to take the boat out for a peaceful weekend at anchor. I chose a common spot in the SF Bay, Aquatuc Park, on the northern shoreline of San Francisco. I got all geared up and ready to go.

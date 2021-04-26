@@ -5,6 +5,9 @@ date:   2020-08-02 08:20:00 -0700
 categories: cushions sewing canvas sunbrella
 ---
 
+Making Custom Cockpit Cushions
+==============================
+
 # Intro
 
 The Ericson 36C's cockpit is enourmous. It's also asymmetric. The companionway entrance is offset slightly to starboard and hatches in the seats aren't quite mirrored. Standard off-the-shelf box cushions just aren't going to work.

@@ -5,6 +5,9 @@ date:   2020-08-01 20:30:00 -0700
 categories: signalk nmea2000
 ---
 
+Setting Up a Signal K Server with a USB Gateway
+===============================================
+
 # Preface
 
 [NMEA 2000](https://en.wikipedia.org/wiki/NMEA_2000) is a useful protocol.

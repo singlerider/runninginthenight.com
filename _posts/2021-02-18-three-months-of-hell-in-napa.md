@@ -5,6 +5,9 @@ date:   2021-02-18 18:00:00 -0700
 categories: coppercoat haulout bottom topsides paint
 ---
 
+Three Months of Hell in Napa
+============================
+
 # Abstract
 
 [![Getting Lifted Out at Berkeley](/assets/images/napa-bottom-job/lifting-out-berkeley.jpg)](https://photos.app.goo.gl/HBTJJfixnkqXnPoJ6)

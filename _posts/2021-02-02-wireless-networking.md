@@ -5,6 +5,9 @@ date:   2021-02-02 13:00:00 -0700
 categories: wifi 4g lte wireless internet
 ---
 
+Wireless Networking on a Sailboat
+=================================
+
 # Abstract
 
 Network connection is a common thing today's sailor wants while out on the water for longer periods. The problem of cell coverage and available signal often arises when in a marina or even when going below deck.
