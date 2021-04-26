@@ -20,7 +20,7 @@ __Then it starts anew__
 
 [![Chainplates Undersides](/assets/images/chainplates/chainplates-underside-bare.jpg)](https://photos.app.goo.gl/yP76bmQeyx49EMneA)
 
-This hanging knee-looking piece is a single slab of aluminum that protrudes throught the deck, exposed minimally above, like an iceberg. It is tabbed down the beam, nearly to the cabin sole.
+This hanging knee-looking piece is a single slab of aluminum that protrudes through the deck, exposed minimally above, like an iceberg. It is tabbed down the beam, nearly to the cabin sole.
 
 [![Damaged Chainplates 2](/assets/images/chainplates/damaged-chainplates-2.jpg)](https://photos.app.goo.gl/W68thyMitiY3REQC9)
 
