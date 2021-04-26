@@ -178,4 +178,6 @@ These new chainplates will outlast me and the life of this boat and I am not mad
 |Fabrication|$1230|
 |Labor|$390|
 
-I've certainly spent more on other projects, so I consider this a win!
+<br>
+
+__I've certainly spent more on other projects, so I consider this a win!__
