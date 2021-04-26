@@ -109,7 +109,7 @@ The old fiberglass tabbing and oil spots will need to be cleaned up before anyth
 
 I need to explain my chainplates. To allow me to do that effectively, I need you to forget what you think you know about them.
 
-My chainplates are enormous. They are tabbed all the way down my beam almost down to the cabin soles. The are like icebergs — only a small portion sticks out above deck. The rest, below looks like hanging knees, almost decorative in appearance. The catch here, and this confuses everyone, is that they are made of aluminum.
+My chainplates are enormous. They are tabbed all the way down my beam almost down to the cabin soles. The are like icebergs — only a small portion sticks out above deck. The rest, below looks like hanging knees, almost decorative in appearance. The catch here, and this confuses everyone, is that they are made of aluminum. To learn more about them, check out [this other post I made that details how I got it fixed]({% post_url 2021-04-25-replacing-chainplates %}).
 
 Yes, aluminum.
 
