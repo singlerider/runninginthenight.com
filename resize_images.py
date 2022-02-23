@@ -43,7 +43,10 @@ if __name__ == "__main__":
     for image_filepath in os.listdir(image_directory_path):
         if ".DS_Store" in image_filepath:
             continue
-        if os.path.splitext(image_filepath)[-1] != ".jpg":
+        if (
+            os.path.splitext(image_filepath)[-1] != ".jpg" and
+            os.path.splitext(image_filepath)[-1] != ".jpeg"
+        ):
             continue
         full_image_path = os.path.join(image_directory_path, image_filepath)
         try:
