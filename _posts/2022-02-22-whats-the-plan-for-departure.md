@@ -29,7 +29,7 @@ Call me Shane.
 
 > The Journey is the Destination.
 
-There's been something drawing me out West since before I can remember. I like to think it's related to my namesake, [Shane](https://en.wikipedia.org/wiki/Shane_(film)>).
+There's been something drawing me out West since before I can remember. I like to think it's related to my namesake, [Shane](https://en.wikipedia.org/wiki/Shane_(film)).
 
 I had this idea to sail around the world in 2009 while sitting in my dorm room in Montgomery, Alabama during my second year in the United States Air Force. I didn't even know what it meant when I wrote it down, but it felt like something that had to be done. It remained scribbled in some long-lost and forgotten notebook, never to be seen again.
 
