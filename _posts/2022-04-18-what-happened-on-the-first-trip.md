@@ -111,7 +111,7 @@ We already had too much wind, but we were starting to learn how to tame it with 
 
 Leading up the the trip's crescendo, Point Conception, I started to doubt myself and my ability to do all of this. I started asking myself "why" I'm bothering to try sailing around the world. What was I trying to prove. I still don't know the answer, but I mentioned this to some friends and one of them told me something that inspired me almost to the point of bringing an empathetic tear of reprieve to my eye:
 
-> You're out they're wondering why you're doing this and I'm wondering why I'm not.
+> You're out there wondering why you're doing this and I'm wondering why I'm not.
 
 It occurred to me that this is literally _the_ dream. It's what people around the world say they will do, and here I am, actually doing it. Things just felt so difficult when I was relentlessly getting slapped by heavy seas and I realized that even though I've over-prepared for the past five years, **_I, practically speaking, have absolutely no idea what I am doing_**.
 
