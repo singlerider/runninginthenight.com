@@ -128,7 +128,7 @@ Dustin has been a liveaboard sailor for nearly ten years in Florida. One day, he
 
 ### Safety Preparations
 
-I have a big list of redundancies, but here are the significant things people may find significant for survival if things go real bad.
+I have a big list of redundancies, but here are the significant things I may find useful for survival if things go real bad.
 
 -   [Revere Offshore Commander 3.0 in a Cradle with Hydrostatic Release](https://www.survivalatsea.com/liferafts/recreational/offshore/revere-offshore-commander.aspx?variantId=d2fee3d2-590c-433d-b0f7-ab8aab699f2a)
 -   [ACR GlobalFix V4 Category 2 (Manual) EPIRB](https://www.acrartex.com/products/globalfix-v4-epirb-emergency-positioning-indicading-radio-beacon/)
