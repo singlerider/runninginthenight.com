@@ -45,7 +45,8 @@ if __name__ == "__main__":
             continue
         if (
             os.path.splitext(image_filepath)[-1] != ".jpg" and
-            os.path.splitext(image_filepath)[-1] != ".jpeg"
+            os.path.splitext(image_filepath)[-1] != ".jpeg" and
+            os.path.splitext(image_filepath)[-1] != ".png"
         ):
             continue
         full_image_path = os.path.join(image_directory_path, image_filepath)
