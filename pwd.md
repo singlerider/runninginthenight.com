@@ -1,7 +1,7 @@
 ---
-layout: home
-title: /which
-permalink: /which/
+layout: page
+title: location
+permalink: /pwd/
 ---
 
 <script type="text/javascript">

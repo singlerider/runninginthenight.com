@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+{%- if page.arrival -%}Arrival: {{page.arrival}}<br />{%- endif -%}
+{%- if page.departure -%}Departure: {{page.departure}}<br />{%- endif -%}
+
+{{ content }}
+{% assign pages = site.pages | where_exp: 'page', 'page.title' | sort: 'date' | reverse %}
+{%- assign date_format = "%Y-%m-%d" -%}
+
+
+{%- if site.pages.size > 0 -%}
+  <ul>
+    {% for page in pages %}
+      {% if page.dir == "/places/" %}
+        <li>
+          [ {{ page.date | date: date_format }} ] <a href="{{ page.url | relative_url }}">{{ page.title | escape }}</a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+{%- endif -%}

@@ -2,4 +2,23 @@
 layout: default
 ---
 
+{%- assign date_format = "%Y-%m-%d" -%}
+[ {{ page.date | date: date_format}} ]
+
 {{ content }}
+
+<hr />
+
+{%- if page.previous -%} Previous: <a href="{{ page.previous.url }}">{{ page.previous.title }}</a> {%- endif -%} {%- if page.previous and page.next -%} &nbsp;|&nbsp; {%- endif -%} {%- if page.next -%} Next: <a href="{{ page.next.url }}">{{ page.next.title }}</a>{%- endif -%}
+
+{%- if site.posts.size > 0 -%}
+  <ul>
+    {%- for _post in site.posts -%}
+      {%- if _post.url != page.url and _post.url != page.previous.url and _post.url != page.next.url -%}
+        <li>
+          [ {{ _post.date | date: date_format }} ] <a href="{{ _post.url | relative_url }}">{{ _post.title | escape }}</a>
+        </li>
+      {%- endif -%}
+    {%- endfor -%}
+  </ul>
+{%- endif -%}

@@ -1,6 +1,6 @@
 ---
 layout: home
-title: whoami
+title: whoami (Shane)
 permalink: /whoami/
 ---
 

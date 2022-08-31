@@ -50,7 +50,7 @@ footer { margin-bottom: 20px; }
  */
 .menu { border-top: var(--border);  border-bottom: var(--border);  margin-bottom: 25px; }
 .menu ul { margin-top: 12px;  margin-bottom: 12px;  padding-left: 0px;  list-style-type: none;  text-align: right; }
-.menu ul li { display: inline;  margin-left: 10px; }
+.menu ul li { display: inline;  margin-left: 0px; }
 .menu ul li a { text-decoration: none;  color: var(--text-color); }
 .menu ul li a:hover { text-decoration: none; color: var(--background-color); background-color: var(--base-color); }
 
@@ -139,4 +139,10 @@ pre { background-color: var(--highlight-background-color);  border: none;  paddi
     -moz-transform: rotate(-90deg); /* Firefox */
     -o-transform: rotate(-90deg); /* Opera */
     -ms-transform: rotate(-90deg); /* IE 9 */
+}
+
+button {background-color: #e7e7e7; color: black;}
+button:hover {
+  background-color: #FFF;
+  color: black;
 }
