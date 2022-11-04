@@ -17,8 +17,8 @@ permalink: /which/
 | San Diego, California             | October   | 2022 |
 | Cabo San Lucas, Mexico            | November  | 2022 |
 | La Paz, Mexico                    | December  | 2022 |
-| Mazatlan, Mexico                  | January   | 2022 |
-| Puerto Vallarta, Mexico           | March     | 2022 |
+| Mazatlan, Mexico                  | January   | 2023 |
+| Puerto Vallarta, Mexico           | March     | 2023 |
 | Marquesas, French Polynesia       | April     | 2023 |
 | Tahiti, French Polynesia          | May       | 2023 |
 | Ha'Apai, Tonga                    | September | 2023 |
