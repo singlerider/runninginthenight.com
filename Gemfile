@@ -33,3 +33,5 @@ gem "webrick", "~> 1.8"
 
 # Installing a locked version will cause crashes during build process
 gem 'ffi', github: 'ffi/ffi', submodules: true
+
+gem "jemoji", "~> 0.13.0"

@@ -34,10 +34,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-
-# Jemoji local emoji
-emoji:
-  src: "/assets/images/emoji"
+  - jemoji
 
 header_pages:
   - index.md
