@@ -2,18 +2,39 @@
 layout: default
 ---
 
-{{ content }}
-{% assign pages = site.pages | where_exp: 'page', 'page.title' | sort: 'date' | reverse %}
+{% assign pages = site.pages | where_exp: 'page', 'page.title' | sort: 'date' %}
 {%- assign date_format = "%Y-%m-%d" -%}
 
 {%- if site.posts.size > 0 -%}
-  <ul>
-    {% for page in pages %}
-      {% if page.dir == "/places/" %}
-        <li>
-          [ {{ page.date | date: date_format }} ] <a href="{{ page.url | relative_url }}">{{ page.title | escape }}</a>
-        </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
+<table>
+  <tr>
+    <td>
+      <strong>Place</strong>
+    </td>
+    <td>
+      &nbsp;&nbsp;<strong>Arrival</strong>
+    </td>
+    <td>
+      <strong>Departure</strong>
+    </td>
+  </tr>
+  {% for page in pages %}
+  {% if page.dir == "/places/" %}
+  <tr>
+    <td>
+      <a href="{{ page.url | relative_url }}">{{ page.title | escape }}</a>
+    </td>
+    <td>
+      {% if page.arrival %}| {% endif %}{{ page.arrival | date: date_format }}{% if page.arrival and page.departure %} | {% endif %}  
+    </td>
+    <td>
+      {{ page.departure | date: date_format }}
+    </td>
+  </tr>
+  {% endif %}
+  {% endfor %}
+</table>
 {%- endif -%}
+
+
+{{ content }}

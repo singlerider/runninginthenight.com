@@ -2,13 +2,15 @@
 layout: default
 ---
 
+{%- if page.noforeignland-place -%}
+<iframe src="https://www.noforeignland.com/place/{{page.noforeignland-place}}" width="600" height="500" style="border:0;"></iframe>
+{%- endif -%}
 {%- if page.arrival -%}Arrival: {{page.arrival}}<br />{%- endif -%}
 {%- if page.departure -%}Departure: {{page.departure}}<br />{%- endif -%}
 
 {{ content }}
 {% assign pages = site.pages | where_exp: 'page', 'page.title' | sort: 'date' | reverse %}
 {%- assign date_format = "%Y-%m-%d" -%}
-
 
 {%- if site.pages.size > 0 -%}
   <ul>
