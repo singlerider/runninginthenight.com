@@ -38,7 +38,8 @@ plugins:
 
 header_pages:
   - index.md
-  - about.md
+  - whoami.md
+  - netstat.md
   - pwd.md
   - echo.md
   - which.md
